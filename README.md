@@ -5,7 +5,7 @@ This project helps institutions manage books, students, issuing, returning, auth
 
 🚀 Features
 
-🔐 User Authentication
+🔐 #User Authentication
 
 Admin login
 Librarian login
@@ -84,6 +84,7 @@ Run the project
 🤝 Contributions
 
 Feel free to fork, open issues, or submit pull requests to enhance features or UI.
+
 
 
 
