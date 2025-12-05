@@ -84,3 +84,4 @@ Perfect for **colleges, schools, and small institutions**.
 Feel free to **fork**, open **issues**, or submit **pull requests** to enhance features or UI.
 
 ---
+
